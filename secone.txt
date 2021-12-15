@@ -2,3 +2,4 @@
 master wangchuang
 wangchuang
 C2客户端修改了内容，并提交到远程库
+C1客户端修改了内容，比提交到远程库
